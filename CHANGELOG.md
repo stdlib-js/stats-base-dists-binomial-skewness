@@ -4,7 +4,29 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-01-21)
+## Unreleased (2025-02-09)
+
+<section class="features">
+
+### Features
+
+-   [`9805877`](https://github.com/stdlib-js/stdlib/commit/9805877a4645bd964574b02d6bf4ce8d36f97f7b) - add C implementation for `stats/base/dists/binomial/skewness` [(#4410)](https://github.com/stdlib-js/stdlib/pull/4410)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#3475](https://github.com/stdlib-js/stdlib/issues/3475)
+
+</section>
+
+<!-- /.issues -->
 
 <section class="commits">
 
@@ -12,6 +34,7 @@
 
 <details>
 
+-   [`9805877`](https://github.com/stdlib-js/stdlib/commit/9805877a4645bd964574b02d6bf4ce8d36f97f7b) - **feat:** add C implementation for `stats/base/dists/binomial/skewness` [(#4410)](https://github.com/stdlib-js/stdlib/pull/4410) _(by Prashant Kumar Yadav, Philipp Burckhardt)_
 -   [`af55f0d`](https://github.com/stdlib-js/stdlib/commit/af55f0d6d6b4d06c36f46357740ea89a4639ab5b) - **bench:** refactor random number generation in `stats/base/dists/binomial` [(#4841)](https://github.com/stdlib-js/stdlib/pull/4841) _(by Karan Anand)_
 
 </details>
@@ -24,9 +47,11 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Karan Anand
+-   Philipp Burckhardt
+-   Prashant Kumar Yadav
 
 </section>
 
