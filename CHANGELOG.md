@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`d53a818`](https://github.com/stdlib-js/stdlib/commit/d53a8184c029c3df7c45a7a1a2da9ff90b4f883e) - **docs:** fix errors in the structure of READMEs in `stats/base/*` [(#5138)](https://github.com/stdlib-js/stdlib/pull/5138) _(by Aayush Khanna)_
 -   [`9805877`](https://github.com/stdlib-js/stdlib/commit/9805877a4645bd964574b02d6bf4ce8d36f97f7b) - **feat:** add C implementation for `stats/base/dists/binomial/skewness` [(#4410)](https://github.com/stdlib-js/stdlib/pull/4410) _(by Prashant Kumar Yadav, Philipp Burckhardt)_
 -   [`af55f0d`](https://github.com/stdlib-js/stdlib/commit/af55f0d6d6b4d06c36f46357740ea89a4639ab5b) - **bench:** refactor random number generation in `stats/base/dists/binomial` [(#4841)](https://github.com/stdlib-js/stdlib/pull/4841) _(by Karan Anand)_
 
@@ -47,8 +48,9 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
+-   Aayush Khanna
 -   Karan Anand
 -   Philipp Burckhardt
 -   Prashant Kumar Yadav
