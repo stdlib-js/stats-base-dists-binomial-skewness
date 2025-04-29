@@ -34,6 +34,7 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`a5e0667`](https://github.com/stdlib-js/stdlib/commit/a5e0667c308881e101549d77c6d8573e3b632c67) - **docs:** replace manual `for` loop in examples [(#6849)](https://github.com/stdlib-js/stdlib/pull/6849) _(by Harsh, Athan Reines)_
 -   [`c1acd4b`](https://github.com/stdlib-js/stdlib/commit/c1acd4bf3ed08b40d6d4e93ee245f03c9eef8472) - **bench:** update random value generation [(#6858)](https://github.com/stdlib-js/stdlib/pull/6858) _(by Harsh, Athan Reines)_
 -   [`a1e230f`](https://github.com/stdlib-js/stdlib/commit/a1e230f29297caa89880e9c194c615a0400fb7bc) - **chore:** clean up cppcheck-suppress comments _(by Karan Anand)_
 -   [`10b7eff`](https://github.com/stdlib-js/stdlib/commit/10b7eff89e06862772f7c5ba751171f8def32848) - **bench:** refactor number generation [(#5198)](https://github.com/stdlib-js/stdlib/pull/5198) _(by Harsh)_
